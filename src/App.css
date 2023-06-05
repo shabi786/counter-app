@@ -103,14 +103,6 @@ button {
   background: #dbf4fa;
 }
 
-.green {
-  color: green;
-}
-
-.red {
-  color: red;
-}
-
 @media screen and (max-width:379px) {
   .container {
     width: 100%;
